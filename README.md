@@ -34,9 +34,8 @@ The purpose of this project is to assess whether the high COPD prevalence rate i
   - SO2 and NO2 in NC  
     ![SO2 in NC (2017-2019)](images/so2.png)  ![NO2 in NC (2017-2019)](images/no2.png)  
   - COPD in NC  
-    ![COPD in NC in 2017](images/copd_2017.png)  
-    ![COPD in NC in 2018](images/copd_2018.png)  
-    ![COPD in NC in 2019](images/copd_2019.png)  
+    ![COPD in NC in 2017](images/copd_2017.jpg)  ![COPD in NC in 2018](images/copd_2018.jpg)  
+    ![COPD in NC in 2019](images/copd_2019.jpg)  
 
 - **Correlation Analysis (2017 - 2019):**
   - In 2017, a negligible positive relationship was found between SO2 and NO2 and COPD prevalence.
