@@ -18,6 +18,7 @@ The purpose of this project is to assess whether the high COPD prevalence rate i
   - "A GIS Based Approach for Assessing the Association between Air Pollution and Asthma in New York State, USA" ([DOI:10.3390/ijerph110504845](https://doi.org/10.3390/ijerph110504845))
 
 ## Methodology
+![workflow](images/model_flow_chart.png)
 1. **Step 1:**
    - Apply the Kriging model for spatial interpolation
    - Extract selected points from raster data
@@ -29,6 +30,11 @@ The purpose of this project is to assess whether the high COPD prevalence rate i
    - Perform correlation analysis between air quality (SO2, NO2) and COPD prevalence
 
 ## Results
+- **Spatial Interpolation Map (2017-2019):**
+  - SO2 and NO2 in NC
+  ![images/so2.png]  ![images/no2.png]
+  - COPD in NC
+  ![images/copd_2017.png] ![images/copd_2018.png] ![images/copd_2019.png]
 - **Correlation Analysis (2017 - 2019):**
   - In 2017, a negligible positive relationship was found between SO2 and NO2 and COPD prevalence.
   - In 2018, a moderate positive relationship was observed.
